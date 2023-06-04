@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "rt_automation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7271",
+      "launchBrowser": false
+    }
+  }
+}
